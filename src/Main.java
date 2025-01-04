@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Good Afternoon Everybody");
+        System.out.println("Long time no see");
     }
 }
